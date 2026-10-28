@@ -1,57 +1,55 @@
 <div align="center">
 
-# `ADWENCHER1`
+![MAKSIM — developer, digital architect](profile-assets/terminal.gif)
 
-**SENIOR SOFTWARE DEVELOPER**  ·  **SYSTEMS THINKER**  ·  **CODE ARCHITECT**
+### `MAKSIM // ADWENCHER1`
 
-```text
-┌──────────────────────────────────────────────────┐
-│  root@adwencher1:~$ whoami                       │
-│                                                  │
-│  Building systems. Breaking limits.              │
-│  Turning complex problems into elegant code.     │
-│                                                  │
-│  STATUS: ONLINE                  ACCESS: GRANTED │
-└──────────────────────────────────────────────────┘
-```
+**SENIOR DEVELOPER · SYSTEM ARCHITECT · DIGITAL CREATOR**
 
-![Code](https://img.shields.io/badge/CODE-BLACK%20%26%20WHITE-000000?style=for-the-badge&labelColor=1a1a1a)
-![Mindset](https://img.shields.io/badge/MINDSET-BUILD%20%26%20BREAK-000000?style=for-the-badge&labelColor=1a1a1a)
+![status](https://img.shields.io/badge/STATUS-ONLINE-000000?style=for-the-badge&labelColor=333333)
+![mode](https://img.shields.io/badge/MODE-BUILDING-000000?style=for-the-badge&labelColor=333333)
+![theme](https://img.shields.io/badge/THEME-MONOCHROME-000000?style=for-the-badge&labelColor=333333)
+
+`[ CODE. CREATE. REPEAT. ]`
 
 </div>
 
 ---
 
-### `> cat about.txt`
+### `01 / WHOAMI`
 
-Senior-разработчик с интересом к архитектуре, производительности и всему, что происходит под капотом. Создаю приложения, проектирую системы и превращаю сложные задачи в работающий код.
+Привет, я **Максим**. Превращаю идеи в цифровые продукты: от первых строк кода до архитектуры готовой системы. Люблю сложные задачи, чистый код и интерфейсы, в которых каждая деталь на своём месте.
 
-```text
-[01]  THINK       →  разобраться в задаче
-[02]  DESIGN      →  выбрать правильную архитектуру
-[03]  BUILD       →  написать надёжный код
-[04]  ITERATE     →  сделать ещё лучше
+```console
+root@adwencher1:~$ cat mission.txt
+> build meaningful things
+> solve problems creatively
+> never stop learning_
 ```
 
-### `> ls ./stack`
+### `02 / TECH ARSENAL`
 
-| Категория | Инструменты |
-| :--- | :--- |
-| **Languages** | JavaScript · TypeScript · Python · Go · C++ · SQL |
-| **Frontend** | React · Next.js · HTML5 · CSS3 · Tailwind CSS |
-| **Backend** | Node.js · Express · NestJS · FastAPI · REST · GraphQL |
-| **Data** | PostgreSQL · MySQL · MongoDB · Redis |
-| **Infrastructure** | Linux · Docker · Kubernetes · Git · CI/CD · Nginx |
-| **Practices** | System Design · Clean Architecture · Testing · Security |
+```text
+LANGUAGES      JavaScript · TypeScript · Python · Go · C++ · SQL
+FRONTEND       React · Next.js · HTML5 · CSS3 · Tailwind CSS
+BACKEND        Node.js · NestJS · Express · FastAPI · GraphQL
+DATABASES      PostgreSQL · MySQL · MongoDB · Redis
+INFRASTRUCTURE Linux · Docker · Kubernetes · Nginx · CI/CD
+TOOLKIT        Git · REST API · Testing · System Design
+```
+
+### `03 / OPERATING PRINCIPLES`
+
+**01.** Думать системно &nbsp; / &nbsp; **02.** Создавать осознанно &nbsp; / &nbsp; **03.** Постоянно улучшать
 
 ---
 
 <div align="center">
 
-```text
-> stay curious_  stay focused_  keep shipping_
-```
+### `ACCESS GRANTED_`
 
-<sub>DESIGNED IN THE TERMINAL. BUILT FOR THE WEB.</sub>
+**BUILD THE IMPOSSIBLE.**
+
+<sub>MAKSIM © DIGITAL SPACE &nbsp; // &nbsp; NO LIMITS. JUST CODE.</sub>
 
 </div>
